@@ -1,7 +1,7 @@
 ### Hi there! my name is Joao Bertholo 👋
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joao-pedro-bertholo-0b74232b9)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-bertholo-0b74232b9/)
 
 ![Joao Github stats](https://github-readme-stats.vercel.app/api?username=bertholo&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertholo)
